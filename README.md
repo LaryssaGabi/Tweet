@@ -14,7 +14,7 @@ Este é um projeto de **aplicativo de feed social** construído com **React**, *
 
 Certifique-se de ter o **Node.js** e o **npm** instalados para seguir com a instalação.
 
-## Instalação
+## Instalação:
  **Clone o repositório:**
    ```bash
    git clone https://github.com/usuario/tweet-app.git
